@@ -1,4 +1,4 @@
-# powerbi_dashboard_sales
+# powerbi_Ecommerce_sales
 This repository contains raw CSV files representing sales data, including customer, product, and order details.
 The Power BI (.pbix) file provides a detailed analysis with interactive dashboards and visual insights.
 This project is created for data analysis, visualization.
